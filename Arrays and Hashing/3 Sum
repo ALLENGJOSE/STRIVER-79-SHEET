@@ -91,5 +91,5 @@ class Solution {
         return ans;
     }
 }
-TC:O(NLOFN)+(N^2)
+TC:O(NLOGN)+(N^2)
 SC:O(1)
